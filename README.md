@@ -1,3 +1,1 @@
-hello world
-
-hello world
+colab notebook that can compile gba code.
